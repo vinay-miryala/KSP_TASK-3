@@ -1,0 +1,42 @@
+table, th, td{
+
+    border: 2px solid red;
+
+}
+
+.CSE{
+    color:blue;
+}
+
+.IT{
+    color:orange;
+}
+
+.ECE{
+    color:green
+}
+
+#no1{
+    color:grey;
+}
+
+#no2{
+    color:brown;
+}
+
+
+.redgrp{
+    color:red;
+}
+
+.greengrp{
+    color:green;
+}
+
+#name1{
+    color:violet;
+}
+
+#name2{
+    color:purple
+}
